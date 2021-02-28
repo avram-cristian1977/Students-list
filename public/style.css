@@ -1,0 +1,22 @@
+
+td{
+    border: 1px solid green;
+}
+
+th{
+    border: 2px solid green;  
+}
+.wrapper{
+    margin: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#btn-list{
+    margin-top: 20px;
+}
+
+body{
+    background-color: cadetblue;
+}
